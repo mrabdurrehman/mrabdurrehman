@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdur-Rehman
 - 👀 I’m interested in Machine Learning and related Data Sets
-- 🌱 I’m currently learning Smog
+- 🌱 I’m currently doing research paper in Data Sciences.
 - 💞️ I’m looking to collaborate on Machine Learning and AI projects
 - 📫 How to reach me malikarehman2000@gmail.com
 
